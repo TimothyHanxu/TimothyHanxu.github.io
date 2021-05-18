@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TimothyHanxu.github.io</id>
     <title>Gridea</title>
-    <updated>2021-05-18T10:48:46.687Z</updated>
+    <updated>2021-05-18T10:50:57.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://TimothyHanxu.github.io"/>
     <link rel="self" href="https://TimothyHanxu.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Tim and Nikki</subtitle>
     <logo>https://TimothyHanxu.github.io/images/avatar.png</logo>
     <icon>https://TimothyHanxu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>

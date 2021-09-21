@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TimothyHanxu.github.io</id>
     <title>Tim and Nikki</title>
-    <updated>2021-09-21T15:04:03.261Z</updated>
+    <updated>2021-09-21T15:12:28.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://TimothyHanxu.github.io"/>
     <link rel="self" href="https://TimothyHanxu.github.io/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="https://TimothyHanxu.github.io/post/fu-shi-xiang-dui-lun-ormen-xun-xun-huan/">
         </link>
         <updated>2021-09-21T11:33:35.000Z</updated>
-        <content type="html"><![CDATA[<p>Hi，我是Tim。这又是一篇没有答案的牢骚。</p>
+        <summary type="html"><![CDATA[<p>最笨的办法，往往也是最好的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>最笨的办法，往往也是最好的。</p>
+<!-- more -->
+<p>Hi，我是Tim。这又是一篇没有答案的牢骚。</p>
 <p>之前在朋友圈转过一篇《关于门徒训练的混淆》。文章引用了Michael Wilkins的观点，认为教会门训现在的问题在于“在理解耶稣所行以及作主门徒中我们应当做什么，并没有达成共识”。这共识可以体现在许多方面。我想仅就门训的循环周期作一些思考。</p>
 <p>在马太福音28章的最后，主向即将诞生的教会颁布了大使命：使万民作主的门徒，其中必不可少的一项就是通过教会的教导使门徒遵守主的命令。这也是教会能不断繁衍、存续至主再来的日子的关键。接受过训练、信仰成熟的门徒，再教导、训练新门徒，帮助他们在信仰上日渐成熟。信仰的传承是通过训练门徒来实现的。</p>
 <figure data-type="image" tabindex="1"><img src="https://TimothyHanxu.github.io/post-images/1632224275293.png" alt="" loading="lazy"></figure>
